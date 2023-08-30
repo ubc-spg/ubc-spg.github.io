@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Stelea | UBC Security &amp; Privacy Group</title>
+    <link>https://example.com/author/b-stelea/</link>
+      <atom:link href="https://example.com/author/b-stelea/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Stelea</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>B Stelea</title>
+      <link>https://example.com/author/b-stelea/</link>
+    </image>
+    
+    <item>
+      <title>Secure Namespaced Kernel Audit for Containers</title>
+      <link>https://example.com/publication/2021-socc/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/2021-socc/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4S7dr4a_Da0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
