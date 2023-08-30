@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Y Wang | UBC Security &amp; Privacy Group</title>
-    <link>https://example.com/author/y-wang/</link>
-      <atom:link href="https://example.com/author/y-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ubc-spg.github.io/author/y-wang/</link>
+      <atom:link href="https://ubc-spg.github.io/author/y-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Y Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>Y Wang</title>
-      <link>https://example.com/author/y-wang/</link>
+      <link>https://ubc-spg.github.io/author/y-wang/</link>
     </image>
     
     <item>
       <title>KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance</title>
-      <link>https://example.com/publication/2024-sp/</link>
+      <link>https://ubc-spg.github.io/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-sp/</guid>
+      <guid>https://ubc-spg.github.io/publication/2024-sp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance (Supplementary Material)</title>
-      <link>https://example.com/publication/2024-sp-supp/</link>
+      <link>https://ubc-spg.github.io/publication/2024-sp-supp/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-sp-supp/</guid>
+      <guid>https://ubc-spg.github.io/publication/2024-sp-supp/</guid>
       <description></description>
     </item>
     

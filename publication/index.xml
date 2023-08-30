@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | UBC Security &amp; Privacy Group</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ubc-spg.github.io/publication/</link>
+      <atom:link href="https://ubc-spg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://ubc-spg.github.io/publication/</link>
     </image>
     
     <item>
       <title>KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance</title>
-      <link>https://example.com/publication/2024-sp/</link>
+      <link>https://ubc-spg.github.io/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-sp/</guid>
+      <guid>https://ubc-spg.github.io/publication/2024-sp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance (Supplementary Material)</title>
-      <link>https://example.com/publication/2024-sp-supp/</link>
+      <link>https://ubc-spg.github.io/publication/2024-sp-supp/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2024-sp-supp/</guid>
+      <guid>https://ubc-spg.github.io/publication/2024-sp-supp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unleashing Unprivileged eBPF Potential with Dynamic Sandboxing</title>
-      <link>https://example.com/publication/2023-sigcomm-ebpf/</link>
+      <link>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2023-sigcomm-ebpf/</guid>
+      <guid>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Namespaced Kernel Audit for Containers</title>
-      <link>https://example.com/publication/2021-socc/</link>
+      <link>https://ubc-spg.github.io/publication/2021-socc/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021-socc/</guid>
+      <guid>https://ubc-spg.github.io/publication/2021-socc/</guid>
       <description>&lt;div align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4S7dr4a_Da0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>SIGL: Securing Software Installations Through Deep Graph Learning</title>
-      <link>https://example.com/publication/2021-usenixsec/</link>
+      <link>https://ubc-spg.github.io/publication/2021-usenixsec/</link>
       <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2021-usenixsec/</guid>
+      <guid>https://ubc-spg.github.io/publication/2021-usenixsec/</guid>
       <description>&lt;div align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iNaucHm7Z6w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -60,9 +60,9 @@
     
     <item>
       <title>UNICORN: Runtime Provenance-Based Detector for Advanced Persistent Threats</title>
-      <link>https://example.com/publication/2020-ndss/</link>
+      <link>https://ubc-spg.github.io/publication/2020-ndss/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2020-ndss/</guid>
+      <guid>https://ubc-spg.github.io/publication/2020-ndss/</guid>
       <description>&lt;div align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/B9ACkb320s0&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -71,9 +71,9 @@
     
     <item>
       <title>Runtime Analysis of Whole-System Provenance</title>
-      <link>https://example.com/publication/2018-ccs/</link>
+      <link>https://ubc-spg.github.io/publication/2018-ccs/</link>
       <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2018-ccs/</guid>
+      <guid>https://ubc-spg.github.io/publication/2018-ccs/</guid>
       <description>&lt;div align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6VBVwH88o4Y&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -82,9 +82,9 @@
     
     <item>
       <title>Practical Whole-System Provenance Capture</title>
-      <link>https://example.com/publication/2017-socc/</link>
+      <link>https://ubc-spg.github.io/publication/2017-socc/</link>
       <pubDate>Mon, 25 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/2017-socc/</guid>
+      <guid>https://ubc-spg.github.io/publication/2017-socc/</guid>
       <description></description>
     </item>
     

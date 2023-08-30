@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yayu Wang | UBC Security &amp; Privacy Group</title>
-    <link>https://example.com/author/yayu-wang/</link>
-      <atom:link href="https://example.com/author/yayu-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ubc-spg.github.io/author/yayu-wang/</link>
+      <atom:link href="https://ubc-spg.github.io/author/yayu-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yayu Wang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/yayu-wang/avatar_hu8a93d8941835e97c3bca7d172351f5ef_441816_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ubc-spg.github.io/author/yayu-wang/avatar_hu8a93d8941835e97c3bca7d172351f5ef_441816_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yayu Wang</title>
-      <link>https://example.com/author/yayu-wang/</link>
+      <link>https://ubc-spg.github.io/author/yayu-wang/</link>
     </image>
     
   </channel>

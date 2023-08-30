@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Pasquier | UBC Security &amp; Privacy Group</title>
-    <link>https://example.com/author/thomas-pasquier/</link>
-      <atom:link href="https://example.com/author/thomas-pasquier/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ubc-spg.github.io/author/thomas-pasquier/</link>
+      <atom:link href="https://ubc-spg.github.io/author/thomas-pasquier/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Pasquier</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/thomas-pasquier/avatar_hu2ba583616907df115841eab85ebdcd50_9319_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://ubc-spg.github.io/author/thomas-pasquier/avatar_hu2ba583616907df115841eab85ebdcd50_9319_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Thomas Pasquier</title>
-      <link>https://example.com/author/thomas-pasquier/</link>
+      <link>https://ubc-spg.github.io/author/thomas-pasquier/</link>
     </image>
     
   </channel>
