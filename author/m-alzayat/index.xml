@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Alzayat | UBC Security &amp; Privacy Group</title>
+    <link>https://ubc-spg.github.io/author/m-alzayat/</link>
+      <atom:link href="https://ubc-spg.github.io/author/m-alzayat/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Alzayat</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>M Alzayat</title>
+      <link>https://ubc-spg.github.io/author/m-alzayat/</link>
+    </image>
+    
+    <item>
+      <title>Pacer: Comprehensive Network Side-Channel Mitigation in the Cloud</title>
+      <link>https://ubc-spg.github.io/publication/2022-usenixsec/</link>
+      <pubDate>Sun, 14 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://ubc-spg.github.io/publication/2022-usenixsec/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;!--
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iNaucHm7Z6w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+--&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

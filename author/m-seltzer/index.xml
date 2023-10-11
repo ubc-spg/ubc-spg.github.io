@@ -5,12 +5,25 @@
     <link>https://ubc-spg.github.io/author/m-seltzer/</link>
       <atom:link href="https://ubc-spg.github.io/author/m-seltzer/index.xml" rel="self" type="application/rss+xml" />
     <description>M Seltzer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>M Seltzer</title>
       <link>https://ubc-spg.github.io/author/m-seltzer/</link>
     </image>
+    
+    <item>
+      <title>NetShaper: A Differentially Private Network Side-Channel Mitigation System</title>
+      <link>https://ubc-spg.github.io/publication/2024-usenixsec/</link>
+      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://ubc-spg.github.io/publication/2024-usenixsec/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;!--
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iNaucHm7Z6w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+--&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>SIGL: Securing Software Installations Through Deep Graph Learning</title>
