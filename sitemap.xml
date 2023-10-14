@@ -86,12 +86,24 @@
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ubc-spg.github.io/publication-type/4/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <loc>https://ubc-spg.github.io/author/a-cidon/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://ubc-spg.github.io/publication/2024-sp-supp/</loc>
-    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <loc>https://ubc-spg.github.io/author/k-kostopoulou/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/p-tholoniat/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/r-geambasu/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/publication/2023-sosp/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ubc-spg.github.io/author/sy-lim/</loc>
@@ -100,6 +112,14 @@
   </url><url>
     <loc>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</loc>
     <lastmod>2023-09-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/publication/2023-rtml/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/q-tang/</loc>
+    <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ubc-spg.github.io/</loc>
@@ -233,10 +253,22 @@
     <loc>https://ubc-spg.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ubc-spg.github.io/author/frederick-shpilevskiy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/haley-li/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ubc-spg.github.io/author/jinyuan-liang/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://ubc-spg.github.io/author/jonas-tai/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ubc-spg.github.io/author/mathias-lecuyer/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/mishaal-kazmi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ubc-spg.github.io/author/praveen-gupta/</loc>
@@ -249,6 +281,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ubc-spg.github.io/author/rut-vora/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/saiyue-lyu/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ubc-spg.github.io/author/shadab-shaikh/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ubc-spg.github.io/author/soo-yee-lim/</loc>

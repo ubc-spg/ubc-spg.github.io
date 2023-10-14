@@ -49,11 +49,16 @@
     </item>
     
     <item>
-      <title>Kairos: Practical Intrusion Detection and Investigation using Whole-system Provenance (Supplementary Material)</title>
-      <link>https://ubc-spg.github.io/publication/2024-sp-supp/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2024-sp-supp/</guid>
-      <description></description>
+      <title>Turbo: Effective Caching in Differentially-Private Databases</title>
+      <link>https://ubc-spg.github.io/publication/2023-sosp/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://ubc-spg.github.io/publication/2023-sosp/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;!--
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iNaucHm7Z6w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+--&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -62,6 +67,19 @@
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>DP-Adam: Correcting DP Bias in Adam&#39;s Second Moment Estimation</title>
+      <link>https://ubc-spg.github.io/publication/2023-rtml/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://ubc-spg.github.io/publication/2023-rtml/</guid>
+      <description>&lt;div align=&#34;center&#34;&gt;
+&lt;!--
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/iNaucHm7Z6w&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+--&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
