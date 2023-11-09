@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SY Lim | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/sy-lim/</link>
-      <atom:link href="https://ubc-spg.github.io/author/sy-lim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/sy-lim/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/sy-lim/index.xml" rel="self" type="application/rss+xml" />
     <description>SY Lim</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>SY Lim</title>
-      <link>https://ubc-spg.github.io/author/sy-lim/</link>
+      <link>https://spg.cs.ubc.ca/author/sy-lim/</link>
     </image>
     
     <item>
       <title>Unleashing Unprivileged eBPF Potential with Dynamic Sandboxing</title>
-      <link>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</link>
+      <link>https://spg.cs.ubc.ca/publication/2023-sigcomm-ebpf/</link>
       <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2023-sigcomm-ebpf/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2023-sigcomm-ebpf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Secure Namespaced Kernel Audit for Containers</title>
-      <link>https://ubc-spg.github.io/publication/2021-socc/</link>
+      <link>https://spg.cs.ubc.ca/publication/2021-socc/</link>
       <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2021-socc/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2021-socc/</guid>
       <description>&lt;div align=&#34;center&#34;&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4S7dr4a_Da0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;

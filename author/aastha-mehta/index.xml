@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aastha Mehta | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/aastha-mehta/</link>
-      <atom:link href="https://ubc-spg.github.io/author/aastha-mehta/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/aastha-mehta/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/aastha-mehta/index.xml" rel="self" type="application/rss+xml" />
     <description>Aastha Mehta</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/aastha-mehta/avatar_hu5e607e11169dda3c8b75bf8aa02374e7_543354_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://spg.cs.ubc.ca/author/aastha-mehta/avatar_hu5e607e11169dda3c8b75bf8aa02374e7_543354_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Aastha Mehta</title>
-      <link>https://ubc-spg.github.io/author/aastha-mehta/</link>
+      <link>https://spg.cs.ubc.ca/author/aastha-mehta/</link>
     </image>
     
   </channel>

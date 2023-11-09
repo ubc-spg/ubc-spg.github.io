@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frederick Shpilevskiy | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/frederick-shpilevskiy/</link>
-      <atom:link href="https://ubc-spg.github.io/author/frederick-shpilevskiy/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/frederick-shpilevskiy/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/frederick-shpilevskiy/index.xml" rel="self" type="application/rss+xml" />
     <description>Frederick Shpilevskiy</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/frederick-shpilevskiy/avatar_hud99c651e5e050992beb99cfaf2190bd8_1369691_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://spg.cs.ubc.ca/author/frederick-shpilevskiy/avatar_hud99c651e5e050992beb99cfaf2190bd8_1369691_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Frederick Shpilevskiy</title>
-      <link>https://ubc-spg.github.io/author/frederick-shpilevskiy/</link>
+      <link>https://spg.cs.ubc.ca/author/frederick-shpilevskiy/</link>
     </image>
     
   </channel>

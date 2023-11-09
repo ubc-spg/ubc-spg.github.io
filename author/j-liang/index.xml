@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Liang | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/j-liang/</link>
-      <atom:link href="https://ubc-spg.github.io/author/j-liang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/j-liang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/j-liang/index.xml" rel="self" type="application/rss+xml" />
     <description>J Liang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>J Liang</title>
-      <link>https://ubc-spg.github.io/author/j-liang/</link>
+      <link>https://spg.cs.ubc.ca/author/j-liang/</link>
     </image>
     
     <item>
       <title>KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance</title>
-      <link>https://ubc-spg.github.io/publication/2024-sp/</link>
+      <link>https://spg.cs.ubc.ca/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2024-sp/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2024-sp/</guid>
       <description></description>
     </item>
     

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mishaal Kazmi | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/mishaal-kazmi/</link>
-      <atom:link href="https://ubc-spg.github.io/author/mishaal-kazmi/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/mishaal-kazmi/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/mishaal-kazmi/index.xml" rel="self" type="application/rss+xml" />
     <description>Mishaal Kazmi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/mishaal-kazmi/avatar_hu6012d1c0206cc3ac47f62731465b1ca5_847328_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://spg.cs.ubc.ca/author/mishaal-kazmi/avatar_hu6012d1c0206cc3ac47f62731465b1ca5_847328_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mishaal Kazmi</title>
-      <link>https://ubc-spg.github.io/author/mishaal-kazmi/</link>
+      <link>https://spg.cs.ubc.ca/author/mishaal-kazmi/</link>
     </image>
     
   </channel>

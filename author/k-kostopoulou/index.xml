@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K Kostopoulou | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/k-kostopoulou/</link>
-      <atom:link href="https://ubc-spg.github.io/author/k-kostopoulou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/k-kostopoulou/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/k-kostopoulou/index.xml" rel="self" type="application/rss+xml" />
     <description>K Kostopoulou</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>K Kostopoulou</title>
-      <link>https://ubc-spg.github.io/author/k-kostopoulou/</link>
+      <link>https://spg.cs.ubc.ca/author/k-kostopoulou/</link>
     </image>
     
     <item>
       <title>Turbo: Effective Caching in Differentially-Private Databases</title>
-      <link>https://ubc-spg.github.io/publication/2023-sosp/</link>
+      <link>https://spg.cs.ubc.ca/publication/2023-sosp/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2023-sosp/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2023-sosp/</guid>
       <description></description>
     </item>
     

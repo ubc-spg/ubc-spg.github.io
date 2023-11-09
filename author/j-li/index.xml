@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Li | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/j-li/</link>
-      <atom:link href="https://ubc-spg.github.io/author/j-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/j-li/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/j-li/index.xml" rel="self" type="application/rss+xml" />
     <description>J Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>J Li</title>
-      <link>https://ubc-spg.github.io/author/j-li/</link>
+      <link>https://spg.cs.ubc.ca/author/j-li/</link>
     </image>
     
     <item>
       <title>Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments</title>
-      <link>https://ubc-spg.github.io/publication/2022-icml/</link>
+      <link>https://spg.cs.ubc.ca/publication/2022-icml/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2022-icml/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2022-icml/</guid>
       <description></description>
     </item>
     

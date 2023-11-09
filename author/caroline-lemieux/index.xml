@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Caroline Lemieux | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/caroline-lemieux/</link>
-      <atom:link href="https://ubc-spg.github.io/author/caroline-lemieux/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/caroline-lemieux/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/caroline-lemieux/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Lemieux</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/caroline-lemieux/avatar_hu983b2164637dec9e47ab24b4cec417af_388696_270x270_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/author/caroline-lemieux/avatar_hu983b2164637dec9e47ab24b4cec417af_388696_270x270_fill_lanczos_center_3.png</url>
       <title>Caroline Lemieux</title>
-      <link>https://ubc-spg.github.io/author/caroline-lemieux/</link>
+      <link>https://spg.cs.ubc.ca/author/caroline-lemieux/</link>
     </image>
     
   </channel>

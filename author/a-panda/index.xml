@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Panda | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/a-panda/</link>
-      <atom:link href="https://ubc-spg.github.io/author/a-panda/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/a-panda/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/a-panda/index.xml" rel="self" type="application/rss+xml" />
     <description>A Panda</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ubc-spg.github.io/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>A Panda</title>
-      <link>https://ubc-spg.github.io/author/a-panda/</link>
+      <link>https://spg.cs.ubc.ca/author/a-panda/</link>
     </image>
     
     <item>
       <title>Measuring the Effect of Training Data on Deep Learning Predictions via Randomized Experiments</title>
-      <link>https://ubc-spg.github.io/publication/2022-icml/</link>
+      <link>https://spg.cs.ubc.ca/publication/2022-icml/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://ubc-spg.github.io/publication/2022-icml/</guid>
+      <guid>https://spg.cs.ubc.ca/publication/2022-icml/</guid>
       <description></description>
     </item>
     

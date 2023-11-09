@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haley Li | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/haley-li/</link>
-      <atom:link href="https://ubc-spg.github.io/author/haley-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/haley-li/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/haley-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Haley Li</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/haley-li/avatar_hu4608743d0e9bb9c2153d0a4ebac09af0_61201_270x270_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/author/haley-li/avatar_hu4608743d0e9bb9c2153d0a4ebac09af0_61201_270x270_fill_lanczos_center_3.png</url>
       <title>Haley Li</title>
-      <link>https://ubc-spg.github.io/author/haley-li/</link>
+      <link>https://spg.cs.ubc.ca/author/haley-li/</link>
     </image>
     
   </channel>

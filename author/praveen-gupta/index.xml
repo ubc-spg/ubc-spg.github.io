@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Praveen Gupta | UBC Security &amp; Privacy Group</title>
-    <link>https://ubc-spg.github.io/author/praveen-gupta/</link>
-      <atom:link href="https://ubc-spg.github.io/author/praveen-gupta/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://spg.cs.ubc.ca/author/praveen-gupta/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/praveen-gupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Praveen Gupta</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://ubc-spg.github.io/author/praveen-gupta/avatar_hu914ed4ccb75c305569f6ee7b27cd7277_309633_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://spg.cs.ubc.ca/author/praveen-gupta/avatar_hu914ed4ccb75c305569f6ee7b27cd7277_309633_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Praveen Gupta</title>
-      <link>https://ubc-spg.github.io/author/praveen-gupta/</link>
+      <link>https://spg.cs.ubc.ca/author/praveen-gupta/</link>
     </image>
     
   </channel>
