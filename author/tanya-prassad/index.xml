@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanya Prassad | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/tanya-prassad/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/tanya-prassad/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tanya Prassad</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/tanya-prassad/avatar_huaf80739101c338129e882301961e5bb4_377364_270x270_fill_lanczos_center_3.png</url>
+      <title>Tanya Prassad</title>
+      <link>https://spg.cs.ubc.ca/author/tanya-prassad/</link>
+    </image>
+    
+  </channel>
+</rss>

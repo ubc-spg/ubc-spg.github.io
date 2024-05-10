@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baoxiang Jiang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/baoxiang-jiang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/baoxiang-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Baoxiang Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/baoxiang-jiang/avatar_hu4ec899f65df2b85f4aeabb86cdfad577_201505_270x270_fill_lanczos_center_3.png</url>
+      <title>Baoxiang Jiang</title>
+      <link>https://spg.cs.ubc.ca/author/baoxiang-jiang/</link>
+    </image>
+    
+  </channel>
+</rss>

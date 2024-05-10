@@ -271,6 +271,9 @@
     <loc>https://spg.cs.ubc.ca/author/amir-sabzi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://spg.cs.ubc.ca/author/baoxiang-jiang/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://spg.cs.ubc.ca/author/caroline-lemieux/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -319,7 +322,13 @@
     <loc>https://spg.cs.ubc.ca/tags/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://spg.cs.ubc.ca/author/tanya-prassad/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://spg.cs.ubc.ca/author/thomas-pasquier/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/tristan-bilot/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/yayu-wang/</loc>
