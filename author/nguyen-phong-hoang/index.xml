@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nguyen Phong Hoang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/nguyen-phong-hoang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/nguyen-phong-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nguyen Phong Hoang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/nguyen-phong-hoang/avatar_huff3138dee4bb88cc91722c5a2a4c4f5d_87421_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Nguyen Phong Hoang</title>
+      <link>https://spg.cs.ubc.ca/author/nguyen-phong-hoang/</link>
+    </image>
+    
+  </channel>
+</rss>
