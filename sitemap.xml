@@ -265,6 +265,9 @@
     <loc>https://spg.cs.ubc.ca/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://spg.cs.ubc.ca/author/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://spg.cs.ubc.ca/author/aastha-mehta/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
