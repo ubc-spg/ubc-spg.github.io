@@ -75,6 +75,69 @@ and developing new evasion tools.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Automatic Generation of Web Censorship Probe Lists</title>
+      <link>https://spg.cs.ubc.ca/publication/2024_popets/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024_popets/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Domain probe lists&amp;mdash;used to determine which URLs to probe for Web
+censorship&amp;mdash;play a critical role in Internet censorship measurement
+studies. Indeed, the size and accuracy of the domain probe list limits the
+set of censored pages that can be detected; inaccurate lists can lead to an
+incomplete view of the censorship landscape or biased results. Previous
+efforts to generate domain probe lists have been mostly manual or
+crowdsourced. This approach is time-consuming, prone to errors, and does
+not scale well to the ever-changing censorship landscape.&lt;/p&gt;
+&lt;p&gt;In this paper, we explore methods for automatically generating probe lists
+that are both comprehensive and up-to-date for Web censorship measurement.
+We start from an initial set of 139,957 unique URLs from various existing
+test lists consisting of pages from a variety of languages to generate new
+candidate pages. By analyzing content from these URLs (i.e., performing
+topic and keyword extraction), expanding these topics, and using them as a
+feed to search engines, our method produces 119,255 new URLs across 35,147
+domains. We then test the new candidate pages by attempting to access each
+URL from servers in eleven different global locations over a span of four
+months to check for their connectivity and potential signs of censorship.
+Our measurements reveal that our method discovered over 1,400 domains&amp;mdash;not
+present in the original dataset&amp;mdash;we suspect to be blocked. In short,
+automatically updating probe lists is possible, and can help further
+automate censorship measurements at scale.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toward Automated DNS Tampering Detection Using Machine Learning</title>
+      <link>https://spg.cs.ubc.ca/publication/2024_foci/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024_foci/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DNS manipulation is one of the most prevalent and effective techniques for
+censoring Internet access and interfering with users&amp;rsquo; online activities
+worldwide. Reliable detection of DNS tampering is crucial, but challenging
+due to evolving censorship tactics and the lack of complete ground truth
+data. In this paper, we demonstrate the power of machine learning (ML) in
+addressing these challenges by applying supervised and unsupervised models
+to recent global DNS measurement data collected by the Open Observatory of
+Network Interference (OONI). Our models achieve high accuracy in learning
+expert-defined heuristics for DNS tampering and uncovering new manipulation
+instances missed by rule-based approaches.&lt;/p&gt;
+&lt;p&gt;Through an extensive analysis evaluating different training data volumes
+and time windows from one to 24 months, we provide key insights into how
+the quantity and diversity of data, as well as evolving censorship
+behaviors, impact model performance over time. Remarkably, our ML detector
+can enhance traditional heuristics by accurately identifying DNS
+fingerprints with high confidence. These findings underscore the
+effectiveness of ML techniques in detecting global DNS manipulation at
+scale while adapting to emerging censorship tactics.&lt;/p&gt;
+&lt;p&gt;To foster future research, we will release our regularly updated models,
+enabling the development of robust, sustainable censorship detection
+systems capable of withstanding the dynamic landscape of Internet
+censorship worldwide. Our work paves the way for more proactive
+interventions that safeguard Internet freedom globally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance</title>
       <link>https://spg.cs.ubc.ca/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>

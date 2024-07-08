@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Tang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/j-tang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/j-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>J Tang</title>
+      <link>https://spg.cs.ubc.ca/author/j-tang/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Generation of Web Censorship Probe Lists</title>
+      <link>https://spg.cs.ubc.ca/publication/2024_popets/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024_popets/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Domain probe lists&amp;mdash;used to determine which URLs to probe for Web
+censorship&amp;mdash;play a critical role in Internet censorship measurement
+studies. Indeed, the size and accuracy of the domain probe list limits the
+set of censored pages that can be detected; inaccurate lists can lead to an
+incomplete view of the censorship landscape or biased results. Previous
+efforts to generate domain probe lists have been mostly manual or
+crowdsourced. This approach is time-consuming, prone to errors, and does
+not scale well to the ever-changing censorship landscape.&lt;/p&gt;
+&lt;p&gt;In this paper, we explore methods for automatically generating probe lists
+that are both comprehensive and up-to-date for Web censorship measurement.
+We start from an initial set of 139,957 unique URLs from various existing
+test lists consisting of pages from a variety of languages to generate new
+candidate pages. By analyzing content from these URLs (i.e., performing
+topic and keyword extraction), expanding these topics, and using them as a
+feed to search engines, our method produces 119,255 new URLs across 35,147
+domains. We then test the new candidate pages by attempting to access each
+URL from servers in eleven different global locations over a span of four
+months to check for their connectivity and potential signs of censorship.
+Our measurements reveal that our method discovered over 1,400 domains&amp;mdash;not
+present in the original dataset&amp;mdash;we suspect to be blocked. In short,
+automatically updating probe lists is possible, and can help further
+automate censorship measurements at scale.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

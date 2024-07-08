@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AN Bhagoji | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/an-bhagoji/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/an-bhagoji/index.xml" rel="self" type="application/rss+xml" />
+    <description>AN Bhagoji</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>AN Bhagoji</title>
+      <link>https://spg.cs.ubc.ca/author/an-bhagoji/</link>
+    </image>
+    
+    <item>
+      <title>Toward Automated DNS Tampering Detection Using Machine Learning</title>
+      <link>https://spg.cs.ubc.ca/publication/2024_foci/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024_foci/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DNS manipulation is one of the most prevalent and effective techniques for
+censoring Internet access and interfering with users&amp;rsquo; online activities
+worldwide. Reliable detection of DNS tampering is crucial, but challenging
+due to evolving censorship tactics and the lack of complete ground truth
+data. In this paper, we demonstrate the power of machine learning (ML) in
+addressing these challenges by applying supervised and unsupervised models
+to recent global DNS measurement data collected by the Open Observatory of
+Network Interference (OONI). Our models achieve high accuracy in learning
+expert-defined heuristics for DNS tampering and uncovering new manipulation
+instances missed by rule-based approaches.&lt;/p&gt;
+&lt;p&gt;Through an extensive analysis evaluating different training data volumes
+and time windows from one to 24 months, we provide key insights into how
+the quantity and diversity of data, as well as evolving censorship
+behaviors, impact model performance over time. Remarkably, our ML detector
+can enhance traditional heuristics by accurately identifying DNS
+fingerprints with high confidence. These findings underscore the
+effectiveness of ML techniques in detecting global DNS manipulation at
+scale while adapting to emerging censorship tactics.&lt;/p&gt;
+&lt;p&gt;To foster future research, we will release our regularly updated models,
+enabling the development of robust, sustainable censorship detection
+systems capable of withstanding the dynamic landscape of Internet
+censorship worldwide. Our work paves the way for more proactive
+interventions that safeguard Internet freedom globally.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
