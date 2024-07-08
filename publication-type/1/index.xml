@@ -60,6 +60,38 @@ and developing new evasion tools.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Toward Automated DNS Tampering Detection Using Machine Learning</title>
+      <link>https://spg.cs.ubc.ca/publication/2024_foci/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024_foci/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;DNS manipulation is one of the most prevalent and effective techniques for
+censoring Internet access and interfering with users&amp;rsquo; online activities
+worldwide. Reliable detection of DNS tampering is crucial, but challenging
+due to evolving censorship tactics and the lack of complete ground truth
+data. In this paper, we demonstrate the power of machine learning (ML) in
+addressing these challenges by applying supervised and unsupervised models
+to recent global DNS measurement data collected by the Open Observatory of
+Network Interference (OONI). Our models achieve high accuracy in learning
+expert-defined heuristics for DNS tampering and uncovering new manipulation
+instances missed by rule-based approaches.&lt;/p&gt;
+&lt;p&gt;Through an extensive analysis evaluating different training data volumes
+and time windows from one to 24 months, we provide key insights into how
+the quantity and diversity of data, as well as evolving censorship
+behaviors, impact model performance over time. Remarkably, our ML detector
+can enhance traditional heuristics by accurately identifying DNS
+fingerprints with high confidence. These findings underscore the
+effectiveness of ML techniques in detecting global DNS manipulation at
+scale while adapting to emerging censorship tactics.&lt;/p&gt;
+&lt;p&gt;To foster future research, we will release our regularly updated models,
+enabling the development of robust, sustainable censorship detection
+systems capable of withstanding the dynamic landscape of Internet
+censorship worldwide. Our work paves the way for more proactive
+interventions that safeguard Internet freedom globally.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>KAIROS: Practical Intrusion Detection and Investigation using Whole-system Provenance</title>
       <link>https://spg.cs.ubc.ca/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
