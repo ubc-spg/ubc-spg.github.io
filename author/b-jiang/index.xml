@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B Jiang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/b-jiang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/b-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>B Jiang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 12 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>B Jiang</title>
+      <link>https://spg.cs.ubc.ca/author/b-jiang/</link>
+    </image>
+    
+    <item>
+      <title>ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-usenixsec/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
