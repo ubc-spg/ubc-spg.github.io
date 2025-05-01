@@ -11,14 +11,46 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication-type/1/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/author/a-zouaoui/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+    <loc>https://spg.cs.ubc.ca/author/a-mehta/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/a-moghimi/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/authors/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/d-sisodraker/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/2025-sp/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/m-shahrad/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/p-gupta/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/</loc>
+    <lastmod>2025-05-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/a-zouaoui/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -35,14 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication/2025-usenixsec/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
-    <lastmod>2025-01-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication/</loc>
     <lastmod>2025-01-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -72,10 +96,6 @@
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/t-prasad/</loc>
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/a-mehta/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/a-sabzi/</loc>
