@@ -34,10 +34,42 @@
     </item>
     
     <item>
+      <title>DPack: Efficiency-Oriented Privacy Budget Scheduling</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-eurosys/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-eurosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems</title>
       <link>https://spg.cs.ubc.ca/publication/2025-usenixsec/</link>
       <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Information Processing Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-neurips-2/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-neurips-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoramia: Privacy auditing of machine learning models without retraining</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-neurips/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cookie Monster: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-sosp/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-sosp/</guid>
       <description></description>
     </item>
     
@@ -133,6 +165,14 @@ interventions that safeguard Internet freedom globally.&lt;/p&gt;
       <link>https://spg.cs.ubc.ca/publication/2024-sp/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://spg.cs.ubc.ca/publication/2024-sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbo: Effective Caching in Differentially-Private Databases</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-aaai/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-aaai/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,28 @@
     <link>https://spg.cs.ubc.ca/author/q-tang/</link>
       <atom:link href="https://spg.cs.ubc.ca/author/q-tang/index.xml" rel="self" type="application/rss+xml" />
     <description>Q Tang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>Q Tang</title>
       <link>https://spg.cs.ubc.ca/author/q-tang/</link>
     </image>
+    
+    <item>
+      <title>Panoramia: Privacy auditing of machine learning models without retraining</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-neurips/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Turbo: Effective Caching in Differentially-Private Databases</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-aaai/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-aaai/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DP-Adam: Correcting DP Bias in Adam&#39;s Second Moment Estimation</title>

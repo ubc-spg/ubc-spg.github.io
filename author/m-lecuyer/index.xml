@@ -5,12 +5,44 @@
     <link>https://spg.cs.ubc.ca/author/m-lecuyer/</link>
       <atom:link href="https://spg.cs.ubc.ca/author/m-lecuyer/index.xml" rel="self" type="application/rss+xml" />
     <description>M Lécuyer</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 30 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>M Lécuyer</title>
       <link>https://spg.cs.ubc.ca/author/m-lecuyer/</link>
     </image>
+    
+    <item>
+      <title>DPack: Efficiency-Oriented Privacy Budget Scheduling</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-eurosys/</link>
+      <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-eurosys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Information Processing Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-neurips-2/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-neurips-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Panoramia: Privacy auditing of machine learning models without retraining</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-neurips/</link>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-neurips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cookie Monster: Efficient On-device Budgeting for Differentially-Private Ad-Measurement Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-sosp/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-sosp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NetShaper: A Differentially Private Network Side-Channel Mitigation System</title>
@@ -23,6 +55,14 @@
 --&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Turbo: Effective Caching in Differentially-Private Databases</title>
+      <link>https://spg.cs.ubc.ca/publication/2024-aaai/</link>
+      <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2024-aaai/</guid>
+      <description></description>
     </item>
     
     <item>
