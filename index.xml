@@ -57,6 +57,36 @@
     </item>
     
     <item>
+      <title>Is Nobody There? Good! Globally Measuring Connection Tampering without Responsive Endhosts</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-sp-mint/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-sp-mint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many techniques have been introduced to measure network interference-tampering
+performed by nation-state censors or corporate firewalls to block unwanted
+traffic. However, virtually all prior measurement techniques require some degree
+of participation from endpoints within each country of study: including VPNs,
+cloud providers, or volunteers willing to run measurement software on their
+personal devices at their own risk. However, such endpoints are not always
+available in all countries that tamper with connections, leaving many networks
+unmeasurable.&lt;/p&gt;
+&lt;p&gt;In this paper, we present the first global, active, network interference
+measurements that require no participating end-points within any country of
+study. Our techniques extend two recent studies that use packet sequences that
+trigger network interference from outside the country of study by tricking
+middleboxes into believing a connection exists. Our system, Mint, generalizes
+and automates this approach-which had previously only been applied to two
+countries-to allow it to apply to the global IPv4 and IPv6 Internet. We use Mint
+to conduct the first global measurements of network interference without using
+any participating endpoints, and the first comprehensive scans of IPv6
+interference. We show that we are able to measure networks, autonomous systems,
+and even entire countries that previous methods could not. We also present
+several case studies that highlight how our tool can be used to perform new
+measurement studies of network interference.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>DPack: Efficiency-Oriented Privacy Budget Scheduling</title>
       <link>https://spg.cs.ubc.ca/publication/2025-eurosys/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>

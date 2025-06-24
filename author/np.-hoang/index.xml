@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NP. Hoang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/np.-hoang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/np.-hoang/index.xml" rel="self" type="application/rss+xml" />
+    <description>NP. Hoang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>NP. Hoang</title>
+      <link>https://spg.cs.ubc.ca/author/np.-hoang/</link>
+    </image>
+    
+    <item>
+      <title>Is Nobody There? Good! Globally Measuring Connection Tampering without Responsive Endhosts</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-sp-mint/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-sp-mint/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Many techniques have been introduced to measure network interference-tampering
+performed by nation-state censors or corporate firewalls to block unwanted
+traffic. However, virtually all prior measurement techniques require some degree
+of participation from endpoints within each country of study: including VPNs,
+cloud providers, or volunteers willing to run measurement software on their
+personal devices at their own risk. However, such endpoints are not always
+available in all countries that tamper with connections, leaving many networks
+unmeasurable.&lt;/p&gt;
+&lt;p&gt;In this paper, we present the first global, active, network interference
+measurements that require no participating end-points within any country of
+study. Our techniques extend two recent studies that use packet sequences that
+trigger network interference from outside the country of study by tricking
+middleboxes into believing a connection exists. Our system, Mint, generalizes
+and automates this approach-which had previously only been applied to two
+countries-to allow it to apply to the global IPv4 and IPv6 Internet. We use Mint
+to conduct the first global measurements of network interference without using
+any participating endpoints, and the first comprehensive scans of IPv6
+interference. We show that we are able to measure networks, autonomous systems,
+and even entire countries that previous methods could not. We also present
+several case studies that highlight how our tool can be used to perform new
+measurement studies of network interference.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
