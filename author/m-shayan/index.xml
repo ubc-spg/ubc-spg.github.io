@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M Shayan | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/m-shayan/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/m-shayan/index.xml" rel="self" type="application/rss+xml" />
+    <description>M Shayan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <title>M Shayan</title>
+      <link>https://spg.cs.ubc.ca/author/m-shayan/</link>
+    </image>
+    
+    <item>
+      <title>On the Reproducibility of Provenance-based Intrusion Detection that uses Deep Learning</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-rep/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-rep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
