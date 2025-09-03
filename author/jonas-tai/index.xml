@@ -5,51 +5,12 @@
     <link>https://spg.cs.ubc.ca/author/jonas-tai/</link>
       <atom:link href="https://spg.cs.ubc.ca/author/jonas-tai/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonas Tai</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
+      <url>https://spg.cs.ubc.ca/author/jonas-tai/avatar_hu061dea660411628fc942db5bbd63aac8_142719_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jonas Tai</title>
       <link>https://spg.cs.ubc.ca/author/jonas-tai/</link>
     </image>
-    
-    <item>
-      <title>IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran</title>
-      <link>https://spg.cs.ubc.ca/publication/2025_usenixsec_irblock/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://spg.cs.ubc.ca/publication/2025_usenixsec_irblock/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The Great Firewall of Iran (GFI) has evolved significantly over the past decade,
-constantly adding sophisticated blocking techniques. Prior research into Iran&amp;rsquo;s
-Internet censorship, however, has primarily been one-off studies, leaving
-significant gaps in understanding the breadth and evolution of its filtering
-strategies. Exploiting the bidirectional blocking behaviors of the GFI and its
-own injection mechanisms as a side-channel to determine traffic disruption, we
-developed IRBlock, a novel large-scale, multi-protocol measurement system
-designed to measure DNS, HTTP, and UDP-based censorship across Iran, enabling
-continuous monitoring and in-depth exploration of the GFI&amp;rsquo;s blocking behavior.&lt;/p&gt;
-&lt;p&gt;Over a period of 2.5 months, IRBlock has periodically measured the entire Iran&amp;rsquo;s
-IP address space and tested the blocking status of over 500M apex domains,
-uncovering new insights into the GFI&amp;rsquo;s censorship practices of different core
-network protocols. Notably, IRBlock identified 6.8M IPs subjected to DNS
-poisoning and HTTP blockpage injection, and 5.4M IPs subjected to UDP-based
-traffic disruption. We also analyzed the censored domains found by IRBlock and
-discovered over censored 6M FQDNs and 3.3M apex domains. Via reverse engineering
-of the GFI&amp;rsquo;s blocking rules, we found many domains are inadvertently overblocked
-due to blanket blocking policies of entire TLDs (e.g., .il), resulting in large
-collateral damage to innocuous websites. We also find that the GFI&amp;rsquo;s blocking
-strategies show many similarities to those observed for the Great Firewall of
-China.&lt;/p&gt;
-&lt;p&gt;Our study represents the most comprehensive view of Iran&amp;rsquo;s Internet censorship
-to date. Leveraging IRBlock&amp;rsquo;s data, we shed light on the GFI&amp;rsquo;s evolving
-filtering strategies and the challenges faced by circumvention tools. We discuss
-the implications of our findings on existing censorship measurement and
-circumvention efforts. We hope that the insights gained from our study can
-inform not only the research community but also policymakers and activists
-working to promote digital freedom in Iran and beyond. All data collected by
-IRBlock will be made publicly available to facilitate further research on
-nation-state censorship and Internet freedom advocacy.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
