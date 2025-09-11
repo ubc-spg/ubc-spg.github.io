@@ -5,7 +5,7 @@
     <link>https://spg.cs.ubc.ca/publication/</link>
       <atom:link href="https://spg.cs.ubc.ca/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Toward Practical and Usable Provenance-based Intrusion Detection Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-usenix-login/</link>
+      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-usenix-login/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>IRBlock: A Large-Scale Measurement Study of the Great Firewall of Iran</title>
       <link>https://spg.cs.ubc.ca/publication/2025_usenixsec_irblock/</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://spg.cs.ubc.ca/publication/2025_usenixsec_irblock/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The Great Firewall of Iran (GFI) has evolved significantly over the past decade,
@@ -52,6 +60,14 @@ nation-state censorship and Internet freedom advocacy.&lt;/p&gt;
     </item>
     
     <item>
+      <title>ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-usenixsec/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Relocate-Vote: Using Sparsity Information to Exploit Ciphertext Side-Channels</title>
       <link>https://spg.cs.ubc.ca/publication/2025-usenixsec_relocatevote/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
@@ -60,18 +76,18 @@ nation-state censorship and Internet freedom advocacy.&lt;/p&gt;
     </item>
     
     <item>
-      <title>Connecting Thompson Sampling and UCB: Towards More Efficient Trade-offs Between Privacy and Regret</title>
-      <link>https://spg.cs.ubc.ca/publication/2025-icml/</link>
-      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://spg.cs.ubc.ca/publication/2025-icml/</guid>
+      <title>Sometimes Simpler is Better: A Comprehensive Analysis of State-of-the-Art Provenance-Based Intrusion Detection Systems</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-usenixsec-2/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sometimes Simpler is Better: A Comprehensive Analysis of State-of-the-Art Provenance-Based Intrusion Detection Systems</title>
-      <link>https://spg.cs.ubc.ca/publication/2025-usenixsec-2/</link>
-      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec-2/</guid>
+      <title>Connecting Thompson Sampling and UCB: Towards More Efficient Trade-offs Between Privacy and Regret</title>
+      <link>https://spg.cs.ubc.ca/publication/2025-icml/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2025-icml/</guid>
       <description></description>
     </item>
     
@@ -123,14 +139,6 @@ measurement studies of network interference.&lt;/p&gt;
       <link>https://spg.cs.ubc.ca/publication/2025-eurosys/</link>
       <pubDate>Sun, 30 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://spg.cs.ubc.ca/publication/2025-eurosys/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ORTHRUS: Achieving High Quality of Attribution in Provenance-based Intrusion Detection Systems</title>
-      <link>https://spg.cs.ubc.ca/publication/2025-usenixsec/</link>
-      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://spg.cs.ubc.ca/publication/2025-usenixsec/</guid>
       <description></description>
     </item>
     
