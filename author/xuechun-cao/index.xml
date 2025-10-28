@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xuechun Cao | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/xuechun-cao/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/xuechun-cao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xuechun Cao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/xuechun-cao/avatar_hubd8180c80ac93f57b89a41ce3d66def5_2421237_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Xuechun Cao</title>
+      <link>https://spg.cs.ubc.ca/author/xuechun-cao/</link>
+    </image>
+    
+  </channel>
+</rss>

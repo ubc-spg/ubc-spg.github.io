@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sophie Chen | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/sophie-chen/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/sophie-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sophie Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/sophie-chen/avatar_hu5cbb2b029f0b9a622155da8cb7173c75_928465_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sophie Chen</title>
+      <link>https://spg.cs.ubc.ca/author/sophie-chen/</link>
+    </image>
+    
+  </channel>
+</rss>
