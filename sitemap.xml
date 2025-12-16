@@ -10,23 +10,51 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://spg.cs.ubc.ca/publication-type/2/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/a-li/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/authors/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/c-lemieux/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/m-huang/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/r-padhye/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/2025-tosem/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/v-vikram/</loc>
+    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://spg.cs.ubc.ca/seminars/</loc>
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication-type/1/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/authors/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -400,10 +428,6 @@
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/v-yegneswaran/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication-type/2/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/a-brar/</loc>
