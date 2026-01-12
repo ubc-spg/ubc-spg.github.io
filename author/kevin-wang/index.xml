@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kevin Wang | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/kevin-wang/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/kevin-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kevin Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/kevin-wang/avatar_hudfb7e5e1e31559254271cd97d0b78556_8020983_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kevin Wang</title>
+      <link>https://spg.cs.ubc.ca/author/kevin-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
