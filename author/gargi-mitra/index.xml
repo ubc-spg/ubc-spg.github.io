@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gargi Mitra | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/gargi-mitra/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/gargi-mitra/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gargi Mitra</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://spg.cs.ubc.ca/author/gargi-mitra/avatar_hu9e97ddb5967c037065054e6592cbe141_953889_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Gargi Mitra</title>
+      <link>https://spg.cs.ubc.ca/author/gargi-mitra/</link>
+    </image>
+    
+  </channel>
+</rss>
