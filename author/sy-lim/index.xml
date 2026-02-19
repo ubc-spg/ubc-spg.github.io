@@ -5,12 +5,20 @@
     <link>https://spg.cs.ubc.ca/author/sy-lim/</link>
       <atom:link href="https://spg.cs.ubc.ca/author/sy-lim/index.xml" rel="self" type="application/rss+xml" />
     <description>SY Lim</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu08a0612ece3264b0c60a561067d923a4_34621_512x512_fill_lanczos_center_3.png</url>
       <title>SY Lim</title>
       <link>https://spg.cs.ubc.ca/author/sy-lim/</link>
     </image>
+    
+    <item>
+      <title>RegTrack: Uncovering Global Disparities in Third-party Advertising and Tracking</title>
+      <link>https://spg.cs.ubc.ca/publication/2026-madweb/</link>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2026-madweb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SafeBPF: Hardware-assisted Defense-in-depth for eBPF Kernel Extensions</title>

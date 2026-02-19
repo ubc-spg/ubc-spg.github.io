@@ -10,6 +10,46 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://spg.cs.ubc.ca/publication-type/1/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/authors/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/np-phong/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/r-vora/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/2026-madweb/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/sy-lim/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/t-pasquier/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/t-prasad/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://spg.cs.ubc.ca/publication-type/2/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,23 +58,11 @@
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/authors/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://spg.cs.ubc.ca/author/c-lemieux/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/m-huang/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication_types/</loc>
-    <lastmod>2025-12-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/publication/</loc>
     <lastmod>2025-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,15 +82,7 @@
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/publication-type/1/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://spg.cs.ubc.ca/author/t-bilot/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/t-pasquier/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -374,14 +394,6 @@
     <lastmod>2024-10-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/author/sy-lim/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/t-prasad/</loc>
-    <lastmod>2024-10-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://spg.cs.ubc.ca/author/a-sabzi/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -415,10 +427,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication/2024-usenixsec/</loc>
-    <lastmod>2024-08-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/r-vora/</loc>
     <lastmod>2024-08-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
