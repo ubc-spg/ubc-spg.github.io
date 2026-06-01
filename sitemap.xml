@@ -11,22 +11,70 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication-type/1/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/authors/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/author/np-phong/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <loc>https://spg.cs.ubc.ca/author/b-jiang/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/2026-kdd/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication_types/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/publication/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/t-bilot/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/t-pasquier/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/a-tchana/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/d-hagimont/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/d-teguia/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/publication/2026-osdi/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/k-lazri/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/l-duval/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/r-lachaize/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/t-pisenti/</loc>
+    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://spg.cs.ubc.ca/author/np-phong/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -39,10 +87,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/sy-lim/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/t-pasquier/</loc>
     <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -82,10 +126,6 @@
     <lastmod>2025-11-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://spg.cs.ubc.ca/author/t-bilot/</loc>
-    <lastmod>2025-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://spg.cs.ubc.ca/publication/2025-usenix-login/</loc>
     <lastmod>2025-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -95,10 +135,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://spg.cs.ubc.ca/author/a-zouaoui/</loc>
-    <lastmod>2025-08-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://spg.cs.ubc.ca/author/b-jiang/</loc>
     <lastmod>2025-08-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
