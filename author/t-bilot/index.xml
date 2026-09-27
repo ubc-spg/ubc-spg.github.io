@@ -5,12 +5,20 @@
     <link>https://spg.cs.ubc.ca/author/t-bilot/</link>
       <atom:link href="https://spg.cs.ubc.ca/author/t-bilot/index.xml" rel="self" type="application/rss+xml" />
     <description>T Bilot</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-GB</language><lastBuildDate>Thu, 10 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-GB</language><lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu_9b56d2c30150936b.png</url>
       <title>T Bilot</title>
       <link>https://spg.cs.ubc.ca/author/t-bilot/</link>
     </image>
+    
+    <item>
+      <title>Learning Transferable Representations from Operating System Entities via Provenance Graph Distillation</title>
+      <link>https://spg.cs.ubc.ca/publication/2026-neurips/</link>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2026-neurips/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LARES: Host-centered Lateral Movement Detection via Inductive Graph Reasoning</title>
