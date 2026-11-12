@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>K Garg | UBC Security &amp; Privacy Group</title>
+    <link>https://spg.cs.ubc.ca/author/k-garg/</link>
+      <atom:link href="https://spg.cs.ubc.ca/author/k-garg/index.xml" rel="self" type="application/rss+xml" />
+    <description>K Garg</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-GB</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://spg.cs.ubc.ca/media/icon_hu_9b56d2c30150936b.png</url>
+      <title>K Garg</title>
+      <link>https://spg.cs.ubc.ca/author/k-garg/</link>
+    </image>
+    
+    <item>
+      <title>Deep Canvassing with Automated Conversational Agents: Personalized Messaging to Change Attitudes</title>
+      <link>https://spg.cs.ubc.ca/publication/2026-research-politics/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2026-research-politics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We test a social media conversational agent for canvassing on the topic of
+anti-transgender prejudice, replicating and benchmarking treatment effects.
+In-person deep canvassing is the gold standard for durably changing attitudes on
+polarizing topics. However, door-to-door canvassing is costly, and many
+populations may not be feasibly reached in this manner. Campaigns are already
+conducting outreach using digital tools, including text messages and social
+media. If appropriately trained agents messaging over social media can achieve a
+fraction of the effect of in-person canvassing, canvassing may be scaled up to
+achieve large overall impacts at lower costs. Scripts used in this application
+are based on those used by transgender allies in the original study. To
+personalize messaging, the conversational agent uses natural language processing
+to detect conversational topics, and shares relevant pre-scripted messages of
+information and third-person experiences, encouraging respondents to engage in
+perspective-taking with respect to an outgroup. This study demonstrates the
+potential of automated social media messaging for deep canvassing, with possible
+applications by governments, public health agencies, and political
+organizations. Estimated effects are positive and significant under covariate
+adjustment and reweighting; due to important differential attrition,
+partial-identification bounds are also reported and include zero.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

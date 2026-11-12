@@ -5,12 +5,74 @@
     <link>https://spg.cs.ubc.ca/publication-type/2/</link>
       <atom:link href="https://spg.cs.ubc.ca/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-GB</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-GB</language><lastBuildDate>Wed, 01 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://spg.cs.ubc.ca/media/icon_hu_9b56d2c30150936b.png</url>
       <title>2</title>
       <link>https://spg.cs.ubc.ca/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>More Space, Less Privacy? Measuring the Effectiveness of IP-based Website Fingerprinting in IPv6</title>
+      <link>https://spg.cs.ubc.ca/publication/2026-popets/</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2026-popets/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Despite the widespread adoption of domain name encryption protocols (e.g., DoH,
+DoT, and ECH), website fingerprinting attacks remain a significant threat to
+online privacy due to the visibility of IP connections that can be observed by
+network-level adversaries. This problem has been investigated in IPv4
+thoroughly but remains largely unexplored in IPv6, where it is even more
+pronounced. From a design perspective, IPv6 offers a vastly larger address
+space, eliminating the need for virtual hosting and domain co-location &amp;ndash;
+practices prevalent in IPv4. These practices obscure several domains behind a
+single IPv4 address. The adoption of IPv6 can theoretically lead to more
+accurate fingerprinting based on IPv6 connections because each domain is now
+more likely to be resolved to a unique globally routable IPv6 address unlike
+IPv4.&lt;/p&gt;
+&lt;p&gt;In this study, we systematically investigate the feasibility, accuracy, and
+privacy implications of IP-based website fingerprinting in IPv6 environments.
+Utilizing empirical data collected via active DNS measurements, Web crawling,
+and entropy-based analyses across half a million dual-stack websites, we
+conduct the largest evaluation of website fingerprinting in IPv6. We find that
+dual-stack websites that still have some IPv4-only dependencies are easier to
+fingerprint, achieving close to 94% accuracy on both IPv4 and IPv6. However,
+fingerprinting pure dual-stack websites is significantly harder: accuracy drops
+to 56% over IPv4 and 45% over IPv6. These results reveal distinct trends in
+hosting infrastructures and indicate that IPv6 itself does not inherently
+diminish privacy, contrary to existing concerns in the community. Rather,
+fingerprinting risk is shaped by how hosting providers deploy IPv6 and their
+choices regarding domain co-location.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep Canvassing with Automated Conversational Agents: Personalized Messaging to Change Attitudes</title>
+      <link>https://spg.cs.ubc.ca/publication/2026-research-politics/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://spg.cs.ubc.ca/publication/2026-research-politics/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We test a social media conversational agent for canvassing on the topic of
+anti-transgender prejudice, replicating and benchmarking treatment effects.
+In-person deep canvassing is the gold standard for durably changing attitudes on
+polarizing topics. However, door-to-door canvassing is costly, and many
+populations may not be feasibly reached in this manner. Campaigns are already
+conducting outreach using digital tools, including text messages and social
+media. If appropriately trained agents messaging over social media can achieve a
+fraction of the effect of in-person canvassing, canvassing may be scaled up to
+achieve large overall impacts at lower costs. Scripts used in this application
+are based on those used by transgender allies in the original study. To
+personalize messaging, the conversational agent uses natural language processing
+to detect conversational topics, and shares relevant pre-scripted messages of
+information and third-person experiences, encouraging respondents to engage in
+perspective-taking with respect to an outgroup. This study demonstrates the
+potential of automated social media messaging for deep canvassing, with possible
+applications by governments, public health agencies, and political
+organizations. Estimated effects are positive and significant under covariate
+adjustment and reweighting; due to important differential attrition,
+partial-identification bounds are also reported and include zero.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Havoc Paradox in Generator-Based Fuzzing</title>
